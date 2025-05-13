@@ -1,5 +1,5 @@
 
-### Olá eu sou o João Gabriel 🤙
+### Olá, eu sou o João Gabriel 🤙
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jo%C3%A3o-gabriel-martiniano-braga-428426236/)
 [![Instagran](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/joao__mb)
